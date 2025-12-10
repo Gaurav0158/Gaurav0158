@@ -14,7 +14,7 @@
 - SQL  
 - DAX  
 - Data Modeling  
-- Python (beginner)  
+- Python  
 
 ### 📌 Featured Projects
 - Smartphone Sales Dashboard (Power BI)  
