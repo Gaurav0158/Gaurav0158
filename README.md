@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋 I am Gaurav
 
-<!--
-**Gaurav0158/Gaurav0158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm passionate about Data Analytics and Business Intelligence  
+📊 I build dashboards using Power BI, Excel & SQL  
+📚 I'm currently learning advanced DAX & data modeling  
+🤝 I'm open to collaborate on Data Analytics and Visualization projects  
+🧩 I enjoy solving real-world problems through data  
+📫 Reach me at: gk5716378@gmail.com  
+🌐 Portfolio / LinkedIn: www.linkedin.com/in/gauravkumar158  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Power BI  
+- Excel (Advanced)  
+- SQL  
+- DAX  
+- Data Modeling  
+- Python (beginner)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📌 Featured Projects
+- Smartphone Sales Dashboard (Power BI)  
+- Data Cleaning & Analysis Projects  
+- Excel Automation Projects  
+
+### 🎯 Fun Fact  
+I love creating useful dashboards and exploring business insights.
 -->
