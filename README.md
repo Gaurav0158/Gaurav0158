@@ -37,4 +37,4 @@ I love creating useful dashboards and exploring business insights.
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![MS Excel](https://img.shields.io/badge/MSExcel-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MSExcel-E34F26?style=for-the-badge&logo=MSExcel&logoColor=lightgreen)
