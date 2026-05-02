@@ -1,4 +1,4 @@
-# Hi there 👋 I am Gaurav
+# Hey there, I’m so glad you’re here!
 
 🚀 I'm passionate about Data Analytics and Business Intelligence  
 📊 I build dashboards using Python, Power BI, Excel & SQL  
