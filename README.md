@@ -1,6 +1,7 @@
 # Hey there, I’m so glad you’re here!
 
 Welcome to my little corner of GitHub!
+
 🚀 I'm passionate about Data Analytics and Business Intelligence  
 📊 I build dashboards using Python, Power BI, Excel & SQL  
 📚 I'm currently learning advanced DAX & data modeling  
