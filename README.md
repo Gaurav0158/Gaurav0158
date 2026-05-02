@@ -1,7 +1,7 @@
 # Hi there 👋 I am Gaurav
 
 🚀 I'm passionate about Data Analytics and Business Intelligence  
-📊 I build dashboards using Power BI, Excel & SQL  
+📊 I build dashboards using Python, Power BI, Excel & SQL  
 📚 I'm currently learning advanced DAX & data modeling  
 🤝 I'm open to collaborate on Data Analytics and Visualization projects  
 🧩 I enjoy solving real-world problems through data  
@@ -14,7 +14,11 @@
 - SQL  
 - DAX  
 - Data Modeling  
-- Python  
+- Python
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
 
 ### 📌 Featured Projects
 - Smartphone Sales Dashboard (Power BI)  
